@@ -12,7 +12,7 @@
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%234d8c33ff&center=true&vCenter=true&lines=𝐂𝐇𝐀𝐏𝐄𝐄𝐘-𝐓𝐄𝐂𝐇" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%234d8c33ff&center=true&vCenter=true&lines=SUCKY HACKER" />
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙒𝙀+𝘼𝙍𝙀+𝙇𝙀𝙂𝙄𝙊𝙉;+𝙒𝙀+𝘿𝙊+𝐍𝐎𝙏+𝙁𝙊𝙍𝙂𝙀𝙏;𝙒𝙀+𝐃𝐎+𝐍𝐎𝐓+𝐅𝐎𝐑𝐆𝐈𝐕𝐄;𝙒𝙀+𝙋𝙍𝙊𝙏𝙀𝘾𝙏+𝙒𝙃𝘼𝙏'𝙎+𝙊𝙐𝙍𝙎)](https://git.io/typing-svg)
@@ -28,13 +28,13 @@
 
 ### INSTALL SCRIPT 
 ```
-apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Amchapeey/strategic/main/genz.sh && chmod +x genz.sh && ./genz.sh
+apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubusercontent.com/Itchyfingers254/Anunda/main/genz.sh && chmod +x genz.sh && ./genz.sh
 
 ```
 
 ### UPDATED SCRIPT
 ```
-wget https://raw.githubusercontent.com/Amchapeey/strategic/main/update.sh && chmod +x update.sh && ./update.sh
+wget https://raw.githubusercontent.com/Itchyfingers254/Anunda/main/update.sh && chmod +x update.sh && ./update.sh
 
 ```
 ### TESTED ON OS 
@@ -86,9 +86,9 @@ wget https://raw.githubusercontent.com/Amchapeey/strategic/main/update.sh && chm
 
 ### TELEGRAM
 <p align="center"><b>
-<a href="https://t.me/chapeey" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+<a href="https://t.me/sucky_hacker" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 
 ### WHATSAPP 
 <p align="center"><b>
-  <a href="https://wa.me/+254704348959" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
+  <a href="https://wa.me/+2547008654493" target=â€_blankâ€><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
 
