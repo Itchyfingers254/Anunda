@@ -12,7 +12,7 @@ except:
 PASS = ''
 BUFLEN = 8196 * 8
 TIMEOUT = 60
-MSG = '𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐂𝐇𝐀𝐏𝐄𝐄𝐘'
+MSG = '𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝕊𝕌ℂ𝕂𝕐 ℍ𝔸ℂ𝕂𝔼ℝ'
 COR = '<font color="#30e528">'
 FTAG = '</font>'
 DEFAULT_HOST = '0.0.0.0:22'
