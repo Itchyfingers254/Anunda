@@ -1,10 +1,10 @@
 #!/bin/bash
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # System Request : Debian 9+/Ubuntu 18.04+/20+
-# Develovers » chapeey
-# Email      » chaoeeystore@gmail.com
-# telegram   » https://t.me/chapeey
-# whatsapp   » wa.me/+254704348959
+# Develovers » SUCKY HACKER
+# Email      » harrisonreycaspian@gmail.com
+# telegram   » https://t.me/sucky_hacker
+# whatsapp   » wa.me/+254708654493
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # chapeey script
 
@@ -33,8 +33,8 @@ clear;clear;clear
 
   # // Banner
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
-echo -e "  Script : ${GRAY} 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 𝐂𝐇𝐀𝐏𝐄𝐄𝐘 𝐒𝐓𝐎𝐑𝐄 ${NC}"
-echo -e "  Author : ${RED}𝐋𝐎𝐑𝐃 𝐂𝐇𝐀𝐏𝐄𝐄𝐘 ${NC}${YELLOW}${NC}"
+echo -e "  Script : ${GRAY} 𝕎𝔼𝕃ℂ𝕆𝕄𝔼 𝕋𝕆 𝕊𝕌ℂ𝕂𝕐_ℍ𝔸ℂ𝕂𝔼ℝ ${NC}"
+echo -e "  Author : ${RED}𝕊𝕌ℂ𝕂𝕐 ℍ𝔸ℂ𝕂𝔼𝕋 ${NC}${YELLOW}${NC}"
 echo -e "  ©2024  : ${BLUE} 𝐒𝐓𝐀𝐁𝐋𝐄 𝐄𝐃𝐈𝐓𝐈𝐎𝐍 ${NC}"
 echo -e "${YELLOW}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━${NC}"
 echo ""
@@ -91,7 +91,7 @@ gem install lolcat
 apt install wondershaper -y
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/Amchapeey/strategic/main/"
+    REPO="https://raw.githubusercontent.com/Itchyfingers254/Anunda/main/"
 
 ####
 start=$(date +%s)
@@ -278,7 +278,7 @@ restart_system(){
 MYIP=$(curl -sS ipv4.icanhazip.com)
 echo -e "\e[32mloading...\e[0m" 
 clear
-izinsc="https://raw.githubusercontent.com/Amchapeey/strategic/main/keygen"
+izinsc="https://raw.githubusercontent.com/Itchyfingers254/Anunda/main/keygen"
 # USERNAME
 rm -f /usr/bin/user
 username=$(curl $izinsc | grep $MYIP | awk '{print $2}')
@@ -321,7 +321,7 @@ URL="https://api.telegram.org/bot$KEY/sendMessage"
     TIMEZONE=$(printf '%(%H:%M:%S)T')
     TEXT="
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
-<b>WELCOME TO CHAPEEY STORE</b>
+<b>𝕎𝔼𝕃ℂ𝕆𝕄𝔼 𝕋𝕆 𝕊𝕌ℂ𝕐_ℍ𝔸ℂ𝕂𝔼ℝ</b>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
 <code>User     :</code><code>$username</code>
 <code>Domain   :</code><code>$domain</code>
@@ -331,7 +331,7 @@ URL="https://api.telegram.org/bot$KEY/sendMessage"
 <code>Time     :</code><code>$TIMEZONE</code>
 <code>Exp Sc.  :</code><code>$exp</code>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
-<b>WELCOME TO CHAPEEY STORE</b>
+<b>𝕎𝔼𝕃ℂ𝕆𝕄𝔼 𝕋𝕆 𝕊𝕌ℂ𝕐_ℍ𝔸ℂ𝕂𝔼ℝ</b>
 <code>━━━━━━━━━━━━━━━━━━━━━━━━━</code>
 <i>Automatic Notifications From Github</i>
 "'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://wa.me/+254704348959"}]]}' 
